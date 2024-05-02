@@ -1,6 +1,6 @@
-## **CAT-0002:** Category testing - Edit  
+## **CAT-0001:** Category testing - Add  
 
-> **Summary:** Verify that category is modified and displayed successfully.  <br>
+> **Summary:** Verify that category is saved and displayed successfully.  <br>
 
 **Preconditions:** _None_  
 

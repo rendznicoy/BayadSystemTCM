@@ -1,6 +1,6 @@
-## **CAT-0005:** Category testing - Filter  
+## **CAT-0001:** Category testing - Add  
 
-> **Summary:** Verify that search filters work successfully.  <br>
+> **Summary:** Verify that category is saved and displayed successfully.  <br>
 
 **Preconditions:** _None_  
 

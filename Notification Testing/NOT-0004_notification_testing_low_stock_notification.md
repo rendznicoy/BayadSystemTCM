@@ -1,6 +1,6 @@
-## **CAT-0003:** Category testing - Delete  
+## **CAT-0001:** Category testing - Add  
 
-> **Summary:** Verify that category is deleted successfully.  <br>
+> **Summary:** Verify that category is saved and displayed successfully.  <br>
 
 **Preconditions:** _None_  
 

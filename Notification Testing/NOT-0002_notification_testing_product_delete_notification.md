@@ -1,6 +1,6 @@
-## **INV-0005:** Inventory testing - Search  
+## **CAT-0001:** Category testing - Add  
 
-> **Summary:** Verify that search feature is working successfully.  <br>
+> **Summary:** Verify that category is saved and displayed successfully.  <br>
 
 **Preconditions:** _None_  
 
