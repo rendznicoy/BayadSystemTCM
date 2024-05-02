@@ -1,6 +1,6 @@
-## **REP-0001:** Transaction Reports testing - Export as CSV  
+## **INV-0003:** Inventory testing - Delete  
 
-> **Summary:** Verify that a transaction report can be exported as CSV successfully.  <br>
+> **Summary:** Verify that inventory item is deleted successfully.  <br>
 
 **Preconditions:** _None_  
 
