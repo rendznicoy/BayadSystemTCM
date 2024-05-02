@@ -1,6 +1,6 @@
-## **REP-0002:** Analytics Reports testing - Export as PDF  
+## **CATA-0003:** Catalog testing - Remove Product  
 
-> **Summary:** Verify that an analytics report can be exported as PDF successfully.  <br>
+> **Summary:** Verify that product is removed from online catalog successfully.  <br>
 
 **Preconditions:** _None_  
 
