@@ -2,7 +2,9 @@
 
 > **Summary:** Verify that admin user successfully modified and displayed the product.  <br>
 
-**Preconditions:** User must be logged in; A Product must be present
+**Preconditions:** 
++ User must be logged in
++ A product must be present
 
 Scenario 1 
 
@@ -16,4 +18,5 @@ Scenario 1
  |  6 | Modify Product Name and Price  | Verify that the 'Save' button is displayed.   |  
  |  7 | Click the Save Button  | Verify that the product is modified and displayed on the list.   |  
 
-**Post-conditions:** None
+**Post-conditions:**
++ The edited product status are saved in the database.
