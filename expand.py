@@ -17,7 +17,7 @@ def main():
     read_me = []
     read_me.append("# BayadSystemTCM")
     read_me.append(
-        "> Mobile software solution and PoS Test Case Management Repository  \n\n"
+        "> Transaqtiq is an innovative mobile software solution designed to meet the unique needs of micro and small enterprises Test Case Management Repository  \n\n"
     )
     read_me.append("## Test Cases  \n\n")
 
