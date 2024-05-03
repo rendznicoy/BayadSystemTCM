@@ -3,7 +3,7 @@
 > **Summary:** Verify that inventory item is saved and displayed successfully.  <br>
 
 **Preconditions:** 
-#User must be logged in
++ User must be logged in
 
 Scenario 1 
 
@@ -17,4 +17,4 @@ Scenario 1
  |  6 | Click 'Add'.     | Verify that the product is added on the list.   |  
 
 **Post-conditions:**
-#The product is saved and displayed
++ The product is saved and displayed
