@@ -1,4 +1,4 @@
-## **CAS-0003:** Cash Ledger Testing - Cash Ledger Retention
+## **CRE-0003:** Cash Ledger Testing - Cash Ledger Retention
 
 > **Summary:** Verify that the details inside cash ledger are retain once refreshed. <br>
 

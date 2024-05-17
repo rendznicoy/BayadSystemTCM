@@ -1,12 +1,11 @@
-## **CAS-0004:** Cash Ledger Testing - Breakdown Display
+## **CRE-0001:** Cash Ledger Testing - Cash Ledger Display
 
-> **Summary:** Verify that the breakdown is loaded and displayed successfully. <br>
+> **Summary:** Verify that the cash ledger page is loaded and displayed successfully. <br>
 
 **Preconditions:**
 
 - User must be connected to the internet
 - User must be logged in
-- A Cash Ledger activity must be done
 
 Scenario 1
 
@@ -17,4 +16,4 @@ Scenario 1
 
 **Post-conditions:**
 
-- The breakdown is displayed.
+- The cash ledger page is displayed.

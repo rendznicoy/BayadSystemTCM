@@ -1,12 +1,11 @@
-## **CAS-0007:** Cash Ledger Testing - Cash Source Item
+## **CRE-0006:** Cash Ledger Testing - Balance Display
 
-> **Summary:** Verify that the cash source item is loaded and displayed successfully. <br>
+> **Summary:** Verify that the balance is loaded and displayed successfully. <br>
 
 **Preconditions:**
 
 - User must be connected to the internet
 - User must be logged in
-- Product must be present
 - A Cash Source must be present
 
 Scenario 1
@@ -18,4 +17,4 @@ Scenario 1
 
 **Post-conditions:**
 
-- The cash source item is displayed.
+- The balance is displayed.

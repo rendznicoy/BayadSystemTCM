@@ -1,6 +1,6 @@
-## **CAS-0002:** Cash Ledger Testing - Cash Ledger Value
+## **CRE-0005:** Cash Ledger Testing - Cash Source Display
 
-> **Summary:** Verify that the total cash is successfully calculated and displayed. <br>
+> **Summary:** Verify that the cash source is loaded and displayed successfully. <br>
 
 **Preconditions:**
 
@@ -16,4 +16,4 @@ Scenario 1
 
 **Post-conditions:**
 
-- The total cash is displayed.
+- The cash source is displayed.
