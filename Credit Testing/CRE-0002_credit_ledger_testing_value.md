@@ -1,6 +1,6 @@
-## **CRE-0001:** Cash Ledger Testing - Cash Ledger Display
+## **CRE-0002:** Credit Ledger Testing - Credit Ledger Display
 
-> **Summary:** Verify that the cash ledger page is loaded and displayed successfully. <br>
+> **Summary:** Verify that the Credit ledger page is loaded and displayed successfully. <br>
 
 **Preconditions:**
 
@@ -9,11 +9,11 @@
 
 Scenario 1
 
-| \#  | Step                   | Expected Behavior                          |
-| --- | ---------------------- | ------------------------------------------ |
-| 1   | Vist the mobile app.   | Verify that the login page is shown.       |
-| 2   | Click the Cash button. | Verify that the cash ledger page is shown. |
+| \#  | Step                     | Expected Behavior                            |
+| --- | ------------------------ | -------------------------------------------- |
+| 1   | Vist the mobile app.     | Verify that the login page is shown.         |
+| 2   | Click the Credit button. | Verify that the Credit ledger page is shown. |
 
 **Post-conditions:**
 
-- The cash ledger page is displayed.
+- The Credit ledger page is displayed.

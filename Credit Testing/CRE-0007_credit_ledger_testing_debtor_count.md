@@ -1,20 +1,20 @@
-## **CRE-0004:** Cash Ledger Testing - Breakdown Display
+## **CRE-0007:** Credit Ledger Testing - Debtor Count Display
 
-> **Summary:** Verify that the breakdown is loaded and displayed successfully. <br>
+> **Summary:** Verify that the number of debtors are correct and displayed successfully. <br>
 
 **Preconditions:**
 
 - User must be connected to the internet
 - User must be logged in
-- A Cash Ledger activity must be done
+- Transaction must be done
 
 Scenario 1
 
-| \#  | Step                   | Expected Behavior                          |
-| --- | ---------------------- | ------------------------------------------ |
-| 1   | Vist the mobile app.   | Verify that the login page is shown.       |
-| 2   | Click the Cash button. | Verify that the cash ledger page is shown. |
+| \#  | Step                     | Expected Behavior                            |
+| --- | ------------------------ | -------------------------------------------- |
+| 1   | Vist the mobile app.     | Verify that the login page is shown.         |
+| 2   | Click the Credit button. | Verify that the Credit ledger page is shown. |
 
 **Post-conditions:**
 
-- The breakdown is displayed.
+- The debtor count is displayed.

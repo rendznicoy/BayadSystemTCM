@@ -1,6 +1,6 @@
-## **CRE-0002:** Cash Ledger Testing - Cash Ledger Value
+## **CRE-0003:** Credit Ledger Testing - Credit Ledger Value
 
-> **Summary:** Verify that the total cash is successfully calculated and displayed. <br>
+> **Summary:** Verify that the total Credit is successfully calculated and displayed. <br>
 
 **Preconditions:**
 
@@ -9,11 +9,11 @@
 
 Scenario 1
 
-| \#  | Step                   | Expected Behavior                          |
-| --- | ---------------------- | ------------------------------------------ |
-| 1   | Vist the mobile app.   | Verify that the login page is shown.       |
-| 2   | Click the Cash button. | Verify that the cash ledger page is shown. |
+| \#  | Step                     | Expected Behavior                            |
+| --- | ------------------------ | -------------------------------------------- |
+| 1   | Vist the mobile app.     | Verify that the login page is shown.         |
+| 2   | Click the Credit button. | Verify that the Credit ledger page is shown. |
 
 **Post-conditions:**
 
-- The total cash is displayed.
+- The Credit ledger page is retained.

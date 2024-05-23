@@ -1,11 +1,12 @@
-## **CRE-0001:** Credit Ledger Testing - Credit Ledger Display
+## **CRE-0009:** Credit Ledger Testing - Total Pending Sum
 
-> **Summary:** Verify that the Credit ledger page is loaded and displayed successfully. <br>
+> **Summary:** Verify that the sum for total pending are correct and displayed successfully. <br>
 
 **Preconditions:**
 
 - User must be connected to the internet
 - User must be logged in
+- Transaction must be done
 
 Scenario 1
 
@@ -16,4 +17,4 @@ Scenario 1
 
 **Post-conditions:**
 
-- The Credit ledger page is displayed.
+- The total pending sum value is displayed.

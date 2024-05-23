@@ -1,11 +1,12 @@
-## **CRE-0001:** Credit Ledger Testing - Credit Ledger Display
+## **CRE-0008:** Credit Ledger Testing - Total Paid Sum
 
-> **Summary:** Verify that the Credit ledger page is loaded and displayed successfully. <br>
+> **Summary:** Verify that the sum for total paid are correct and displayed successfully. <br>
 
 **Preconditions:**
 
 - User must be connected to the internet
 - User must be logged in
+- Transaction must be done
 
 Scenario 1
 
@@ -16,4 +17,4 @@ Scenario 1
 
 **Post-conditions:**
 
-- The Credit ledger page is displayed.
+- The total paid sum value is displayed.

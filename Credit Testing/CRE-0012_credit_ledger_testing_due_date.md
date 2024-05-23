@@ -1,20 +1,20 @@
-## **CRE-0006:** Cash Ledger Testing - Balance Display
+## **CRE-0012:** Credit Ledger Testing - Due Date Display
 
-> **Summary:** Verify that the balance is loaded and displayed successfully. <br>
+> **Summary:** Verify that the due date for each debtor are logged and displayed successfully. <br>
 
 **Preconditions:**
 
 - User must be connected to the internet
 - User must be logged in
-- A Cash Source must be present
+- Transaction must be done
 
 Scenario 1
 
-| \#  | Step                   | Expected Behavior                          |
-| --- | ---------------------- | ------------------------------------------ |
-| 1   | Vist the mobile app.   | Verify that the login page is shown.       |
-| 2   | Click the Cash button. | Verify that the cash ledger page is shown. |
+| \#  | Step                     | Expected Behavior                            |
+| --- | ------------------------ | -------------------------------------------- |
+| 1   | Vist the mobile app.     | Verify that the login page is shown.         |
+| 2   | Click the Credit button. | Verify that the Credit ledger page is shown. |
 
 **Post-conditions:**
 
-- The balance is displayed.
+- The debtor due date is displayed.
